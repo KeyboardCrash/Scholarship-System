@@ -2,11 +2,11 @@
 *The original repository is in the university's gitlab server, copied here to github
  
 Course project for introductory software engineering course at U of C. Created as 5-group term project. 
-The project centered aroung learning about the software engineering process (Planning, managing, design, testing, implementation, etc.) and overall, following through an agile software development process. 
+The project centered around learning about the software engineering process (Planning, managing, design, testing, implementation, etc.) and overall, following through an agile software development process. 
 
 This project was implemented as a desktop application using JavaFX. It is a fully functioning system with an implemented database.To Launch the application, Use the link *Scholarship System*. 
-You can login as an admin :
-                            username: 123
+You can login as an admin,
+                            username: 123, 
                             password: 1
 And register as a student. 
 
