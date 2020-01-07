@@ -8,7 +8,7 @@ This project was implemented as a desktop application using JavaFX. It is a full
 You can login as an admin,
                             username: 123, 
                             password: 1
-And register as a student. 
+or register as a student. 
 
 The Admin account can:
   - create/edit/delete scholarships
