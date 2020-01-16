@@ -1,4 +1,7 @@
 # Scholarship-System
+
+Done as a group project for Introduction to Software Engineering
+
 *The original repository is in the university's gitlab server, copied here to github
  
 (2019) Course project for introductory software engineering course at U of C. Created as 5-group term project. 
